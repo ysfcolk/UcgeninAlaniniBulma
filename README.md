@@ -1,6 +1,6 @@
 ## Ucgenin Alanını Bulan Program
 
-Üçgenin alanını bulan  programıma hoşgeldin.Bu proje [Patika Dev](www.patika.dev) Java Back-End kursu için hazırlanmıştır.
+Üçgenin alanını bulan  programıma hoşgeldin.Bu program [Patika Dev](www.patika.dev) Java Back-End kursu için hazırlanmıştır.
 
 ## **Installation**
 
